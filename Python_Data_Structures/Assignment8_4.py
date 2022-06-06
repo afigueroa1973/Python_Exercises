@@ -5,8 +5,7 @@
     build a list of words. For each word on each line check to see if the word
     is already in the list and if not append it to the list. When the program
     completes, sort and print the resulting words in alphabetical order.
-    You can download the sample file at http:/www.py4e.com/code3/romeo.txt
-"""
+    You can download the sample file at http:/www.py4e.com/code3/romeo.txt"""
 
 file_name = input("\nEnter file name: ")
 file_handle = open(file_name)
