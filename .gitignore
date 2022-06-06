@@ -1,0 +1,41 @@
+### PyCharm ###
+/.idea/workspace.xml
+
+### VS Code ###
+/.vscode/
+*.code-workspace
+
+### Jupyter Notebook ###
+.ipynb_checkpoints
+
+### Environments ###
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+### Byte-compiled / optimized / DLL files ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+### Django Stuff ###
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+### Spyder Project Settings ###
+.spyderproject
+.spyproject
+
+### PDF Files ###
+*.pdf
+
+### Some Folders ###
+notas/
+notes/
