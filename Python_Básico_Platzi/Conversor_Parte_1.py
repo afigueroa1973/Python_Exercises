@@ -1,8 +1,7 @@
 # Conversor de monedas:
 
 """ Conversor de moneda que convierte pesos mexicanos, argentinos y colombianos
-    a dólares, utilizar solamente condicionales if - elif - else.
-"""
+    a dólares, utilizar solamente condicionales if-elif-else."""
 
 menu = """
 Bienvenido Al Conversor de Monedas Multi País

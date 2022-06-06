@@ -2,8 +2,7 @@
 
 """
     Elabore un programa que pueda generar aleatoriamente un clave de acceso
-    utilizando multiples letras y caracteres.
-"""
+    utilizando multiples letras y caracteres."""
 
 import random
 

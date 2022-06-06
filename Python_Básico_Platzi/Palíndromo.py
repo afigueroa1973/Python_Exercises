@@ -4,8 +4,7 @@
     Elabore un programa que nos diga si una palabra o frase es de tipo
     palindromo; ejemplos:
     ana
-    yo dono rosas, oro no doy
-"""
+    yo dono rosas, oro no doy"""
 
 
 def palindromo(palabra):

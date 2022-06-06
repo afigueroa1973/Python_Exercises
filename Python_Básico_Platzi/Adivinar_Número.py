@@ -1,8 +1,7 @@
 # Adivinar Número:
 
 """ Elabore un programa que permita al usuario adivinar un número generado al
-    azar por Python y que se encuentre entre 1 y 100.
-"""
+    azar por Python y que se encuentre entre 1 y 100."""
 
 import random
 

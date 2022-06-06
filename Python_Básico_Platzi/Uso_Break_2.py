@@ -1,8 +1,7 @@
 # Uso de Break:
 
 """ Elabore un programa que encuentre una letra determinada en una palabra o
-    frase y luego de encontrarla, detenga la ejecución...
-"""
+    frase y luego de encontrarla, detenga la ejecución..."""
 
 
 def main():

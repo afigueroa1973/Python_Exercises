@@ -2,8 +2,7 @@
 
 """
     Elabore un programa que permita imprimir todas las potencias de un número
-    desde 0 a 100.
-"""
+    desde 0 a 100."""
 
 base = int(input("\n¿De que número quier sacar la potencia?: "))
 

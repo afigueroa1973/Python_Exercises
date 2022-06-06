@@ -1,8 +1,7 @@
 # Conversor de monedas:
 
 """ Conversor de moneda que convierte pesos mexicanos, argentinos y colombianos
-    a dólares, utilizar condicionales if - elif - else y funciones.
-"""
+    a dólares, utilizar condicionales if-elif-else y funciones."""
 
 
 def conversor(tipo_pesos, cambio_dolar):

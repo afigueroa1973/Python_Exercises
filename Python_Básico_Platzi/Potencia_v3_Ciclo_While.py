@@ -3,8 +3,7 @@
 """
     Elabore un programa que permita imprimir todas las potencias de un número
     menores de 100. Utilizar funciones para optimizar el programa junto con
-    el ciclo While.
-"""
+    el ciclo While."""
 
 
 def potencia(base):

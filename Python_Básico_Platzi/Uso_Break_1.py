@@ -1,8 +1,7 @@
 # Uso de Break:
 
 """ Elabore un programa que imprima los números pares en un rango de 0 a 100
-    utilizando break para detener el programa al llegar al número 50...
-"""
+    utilizando break para detener el programa al llegar al número 50."""
 
 
 def main():

@@ -2,8 +2,7 @@
 
 """
     Elabore un programa que permita decirnos si un número ingresado mediante
-    teclado, es primo.
-"""
+    teclado, es primo."""
 
 
 def main():

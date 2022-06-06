@@ -2,8 +2,7 @@
 
 """
     Elabore un programa que permita decirnos si un número ingresado mediante
-    teclado, es primo. Utilizar funciones para optimizar el programa.
-"""
+    teclado, es primo. Utilizar funciones para optimizar el programa."""
 
 
 def es_primo(numero):

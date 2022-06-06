@@ -2,8 +2,7 @@
 
 """
     Elabore un programa que permita recorrer una cadena y separe cada letra
-    con un espacio.
-"""
+    con un espacio."""
 
 
 def main():

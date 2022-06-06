@@ -2,8 +2,7 @@
 
 """
     Elabore un programa que imprima solamente los números pares en un rango
-    de 0 a 20 utilizando continue para evitar los números impares...
-"""
+    de 0 a 20 utilizando continue para evitar los números impares."""
 
 
 def main():
