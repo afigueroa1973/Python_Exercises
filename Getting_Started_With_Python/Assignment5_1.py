@@ -4,8 +4,7 @@
     “done”. Once “done” is entered, print out the total, count, and average of
     the numbers. If the user enters anything other than a number, detect their
     mistake using try and except and print an error message and skip to the
-    next number.
-"""
+    next number."""
 
 total = 0
 count = 0

@@ -10,8 +10,7 @@
     string and float() to convert the string to a number. Do not worry about
     error checking the user input unless you want to - you can assume the user
     types numbers properly. Do not name your variable sum or use the sum()
-    function.
-"""
+    function."""
 
 
 def computepay(hours, rate):

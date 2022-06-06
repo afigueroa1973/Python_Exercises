@@ -2,8 +2,7 @@
 
 """ Write a program that uses input to prompt a user for their name and then
     welcomes them. Enter Sarah in the pop-up box when you are prompted so your
-    output will match the desired output.
-"""
+    output will match the desired output."""
 
 name = input("\nEnter your name: ")
 print("Hello", name)
