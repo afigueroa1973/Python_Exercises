@@ -15,3 +15,17 @@ print("0 \t\t", 200 * 2 ** 0)
 print("5 \t\t", 200 * 2 ** 5)
 print("10 \t\t", 200 * 2 ** 10)
 print("15 \t\t", 200 * 2 ** 15)
+
+# The next chapter shows how to “right align” numbers. You could try that as an
+# extra challenge here. The output would be as given below:
+# Hour   Number of Bacteria
+#    0                  200
+#    5                 6400
+#   10               204800
+#   15              6553600
+
+print("\nHour     Number of Bacteria")
+print("   0 \t\t\t\t   ", 200 * 2 ** 0)
+print("   5 \t\t\t\t  ", 200 * 2 ** 5)
+print("  10 \t\t\t\t", 200 * 2 ** 10)
+print("  15 \t\t\t   ", 200 * 2 ** 15)

@@ -12,39 +12,33 @@ player2 = int(input("Enter the time in seconds for Player 2: "))
 player3 = int(input("Enter the time in seconds for Player 3: "))
 
 if player1 < player2 < player3:
-    print(f"""
-    1st place: {player1} seconds for Player 1
-    2nd place: {player2} seconds for Player 2
-    3rd place: {player3} seconds for Player 3""")
+    print("\n1st place:", player1, "seconds for Player 1")
+    print("2nd place:", player2, "seconds for Player 2")
+    print("3rd place:", player3, "seconds for Player 3")
 
 if player1 < player3 < player2:
-    print(f"""
-    1st place: {player1} seconds for Player 1
-    2nd place: {player3} seconds for Player 3
-    3rd place: {player2} seconds for Player 2""")
+    print("\n1st place:", player1, "seconds for Player 1")
+    print("2nd place:", player3, "seconds for Player 3")
+    print("3rd place:", player2, "seconds for Player 2")
 
 if player2 < player1 < player3:
-    print(f"""
-    1st place: {player2} seconds for Player 2
-    2nd place: {player1} seconds for Player 1
-    3rd place: {player3} seconds for Player 3""")
+    print("\n1st place:", player2, "seconds for Player 2")
+    print("2nd place:", player1, "seconds for Player 1")
+    print("3rd place:", player3, "seconds for Player 3")
 
 if player2 < player3 < player1:
-    print(f"""
-    1st place: {player2} seconds for Player 2
-    2nd place: {player3} seconds for Player 3
-    3rd place: {player1} seconds for Player 1""")
+    print("\n1st place:", player2, "seconds for Player 2")
+    print("2nd place:", player3, "seconds for Player 3")
+    print("3rd place:", player1, "seconds for Player 1")
 
 if player3 < player1 < player2:
-    print(f"""
-    1st place: {player3} seconds for Player 3
-    2nd place: {player1} seconds for Player 1
-    3rd place: {player2} seconds for Player 2""")
+    print("\n1st place:", player3, "seconds for Player 3")
+    print("2nd place:", player1, "seconds for Player 1")
+    print("3rd place:", player2, "seconds for Player 2")
 
 if player3 < player2 < player1:
-    print(f"""
-    1st place: {player3} seconds for Player 3
-    2nd place: {player2} seconds for Player 2
-    3rd place: {player1} seconds for Player 1""")
+    print("\n1st place:", player3, "seconds for Player 3")
+    print("2nd place:", player2, "seconds for Player 2")
+    print("3rd place:", player1, "seconds for Player 1")
 
 # Does your script work with duplicate numbers? No, it doesn't work
