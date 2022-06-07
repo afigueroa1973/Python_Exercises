@@ -10,7 +10,7 @@
       10    204800
       15    6553600"""
 
-print("Hour     Number of Bacteria")
+print("\nHour     Number of Bacteria")
 print("0 \t\t", 200 * 2 ** 0)
 print("5 \t\t", 200 * 2 ** 5)
 print("10 \t\t", 200 * 2 ** 10)

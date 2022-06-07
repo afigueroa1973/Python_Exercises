@@ -7,7 +7,7 @@
 marbles = 22
 amount = marbles / 4
 
-print("Amount:", amount)
+print("\nAmount:", amount)
 
 if marbles % 4 == 0:
     print("It is possible")

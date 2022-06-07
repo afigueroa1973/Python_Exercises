@@ -13,7 +13,7 @@
 tom = ord("T") + ord("o") + ord("m")
 jim = ord("J") + ord("i") + ord("m")
 
-print("Tom's value:", tom)
+print("\nTom's value:", tom)
 print("Jim's value:", jim)
 
 highest = max(tom, jim)
