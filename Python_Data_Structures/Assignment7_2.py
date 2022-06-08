@@ -8,7 +8,7 @@
     lines and compute the average of those values and produce an output as
     shown below. Do not use the sum() function or a variable named sum in your
     solution. Use mbox-short.txt as the file name. You can download the sample
-    file at http:/www.py4e.com/code3/mbox-short.txt"""
+    file at https://www.py4e.com/code3/mbox-short.txt"""
 
 total = 0
 count = 0

@@ -7,7 +7,7 @@
         From stephen.marquard@uct.ac.za Sat Jan  5 09: 14: 16 2008
     Once you have accumulated the counts for each hour, print out the counts,
     sorted by hour as shown below. You can download the sample file at:
-    http:/www.py4e.com/code3/mbox-short.txt"""
+    https://www.py4e.com/code3/mbox-short.txt"""
 
 file_name = input("\nEnter file: ")
 file_handle = open(file_name)
